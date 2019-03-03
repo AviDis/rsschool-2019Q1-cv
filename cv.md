@@ -39,10 +39,10 @@ Creating, updating and maintaining technical documentation.
 **Filling out data for a visual analysis studio**  
 Development of processes for uploading data to the visual analysis studio. Building relationships between them. Filling of facts about entities, as well as facts about the connections between these entities. The data were loaded from various sources, such as database, xml and xlsx files.
 
-***Responsibilities:***
+**Responsibilities:**
 - Data source analysis
 - Design and development of transformations and jobs for extraction of data from various data sources according to business rules and mappings 
--Data testing 
+- Data testing 
 
 ***Environment:*** Oracle DB 11.2.0.3.0,Pentaho Data Integration 7.1
 
