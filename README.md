@@ -1,1 +1,1 @@
-https://github.com/AviDis/rsschool-2019Q1-cv/cv
+https://avidis.github.io/rsschool-2019Q1-cv/cv
