@@ -32,14 +32,14 @@ The goal of the project is to create ETL jobs for different purposes (e.q., prep
 - Creating ddls and dmls. Working with row-organized and column-organized tables. 
 - Analyzing database designs and system integration processes to make suggestions for further enhancement.
 Creating, updating and maintaining technical documentation.  
-***Environment:*** IBM DataStage, Pentaho Kettle, IBM Data Studio, DB2, Cloudant DB,  HTML
+***Environment:*** IBM DataStage, Pentaho Kettle, DB2, Cloudant DB,  HTML
 
 
 **ETL developer**  
 **Filling out data for a visual analysis studio**  
 Development of processes for uploading data to the visual analysis studio. Building relationships between them. Filling of facts about entities, as well as facts about the connections between these entities. The data were loaded from various sources, such as database, xml and xlsx files.
 
-**Responsibilities:**
+***Responsibilities:***
 - Data source analysis
 - Design and development of transformations and jobs for extraction of data from various data sources according to business rules and mappings 
 - Data testing 
@@ -56,7 +56,7 @@ The solution was intended for analyzing and monitoring financial information and
 - Participating in design of ETL framework
 - Developing and maintaining ETL processes  
 - Data testing and validation
--Administering the data load process/troubleshooting
+- Administering the data load process/troubleshooting
 
 ***Environment:*** Informatica PowerCenter 9.6, Oracle DB 11.2.0.3.0
 ### Education ###
